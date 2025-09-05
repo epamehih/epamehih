@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Hian 👋
 
-<!--
-**epamehih/epamehih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 19 anos e moro no Brasil.  
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou extremamente apaixonado pelo **mundo hacker** e tudo que envolve **tecnologia**. Adoro explorar novas ferramentas, aprender linguagens e desenvolver projetos inovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sonho
+Meu objetivo é fazer parte de uma **grande empresa de tecnologia**, contribuindo com soluções criativas e ajudando a transformar o mundo digital.
+
+## Frases que gosto
+> "Uma chance em um milhão ainda é uma chance."  
+> — pois nada é impossível e tudo pode ser feito com determinação  
+
+> "Não busque em você o que só há em mim."  
+> — Jesus, sobre a perfeição ✨
+
+Sempre em busca de aprendizado e desafios!
